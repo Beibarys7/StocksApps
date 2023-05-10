@@ -23,6 +23,7 @@
 		5493EA772A043260004F0910 /* StocksResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5493EA762A043260004F0910 /* StocksResponse.swift */; };
 		5493EA792A050F21004F0910 /* ModuleBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5493EA782A050F21004F0910 /* ModuleBuilder.swift */; };
 		54B9496029F2A95800D62E37 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54B9495F29F2A95800D62E37 /* NetworkService.swift */; };
+		54FAD9D42A0BA0D500D77A5D /* .gitignore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54FAD9D32A0BA0D500D77A5D /* .gitignore.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		5493EA762A043260004F0910 /* StocksResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StocksResponse.swift; sourceTree = "<group>"; };
 		5493EA782A050F21004F0910 /* ModuleBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModuleBuilder.swift; sourceTree = "<group>"; };
 		54B9495F29F2A95800D62E37 /* NetworkService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkService.swift; sourceTree = "<group>"; };
+		54FAD9D32A0BA0D500D77A5D /* .gitignore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .gitignore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +173,7 @@
 				5468604329EEF4FA00C8B65A /* AppDelegate.swift */,
 				5468604E29EEF4FC00C8B65A /* LaunchScreen.storyboard */,
 				5468605129EEF4FC00C8B65A /* Info.plist */,
+				54FAD9D32A0BA0D500D77A5D /* .gitignore.swift */,
 			);
 			path = Application;
 			sourceTree = "<group>";
@@ -280,6 +283,7 @@
 				5468604429EEF4FA00C8B65A /* AppDelegate.swift in Sources */,
 				5482653329F16A7B00F0F1C5 /* NetworkError.swift in Sources */,
 				5493EA722A041DF9004F0910 /* StocksRouter.swift in Sources */,
+				54FAD9D42A0BA0D500D77A5D /* .gitignore.swift in Sources */,
 				5493EA752A041E4F004F0910 /* StockModel.swift in Sources */,
 				5493EA6A2A03B099004F0910 /* StocksPresenter.swift in Sources */,
 				5493EA792A050F21004F0910 /* ModuleBuilder.swift in Sources */,
